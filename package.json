@@ -1,0 +1,1 @@
+{"description":"A single painfully honest out-of-office auto-reply (one sentence, at most 200 characters) that still sounds professional.","license":"MIT","main":"main.ts","name":"u-po-pu-the-painfully-honest-out-of-office-63e7ca0b","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
